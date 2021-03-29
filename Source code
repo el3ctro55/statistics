@@ -1,8 +1,7 @@
 import numpy as num
 import json
 import statistics as stat
-import sys 
-sys.
+
 #####CLASS START HERE#####
 class Data:
 
